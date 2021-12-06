@@ -1,0 +1,13 @@
+Metastatic Sites,(All),
+,,
+Mouse ID,Timepoint,Count of Tumor Volume (mm3)
+g989,0,2
+g989,5,2
+g989,10,2
+g989,15,2
+g989,20,2
+g989,25,1
+g989,30,1
+g989,35,1
+g989 Total,,13
+Grand Total,,13

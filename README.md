@@ -11,7 +11,7 @@ Overall, it is clear that Capomulin is a viable drug regimen to reduce tumor gro
 ![TumorMean](./images/TumorMeanBar.png)
 ![TumorvaMice](./images/TumorVsMice.png)
 
-Capomulin had the most number of mice complete the study, with the exception of Remicane, all other regimens observed a number of mice deaths across the duration of the study.
+Capomulin had the most number of mice complete the study, with the exception of Ramicane, all other regimens observed a number of mice deaths across the duration of the study.
 
 ![BarPandas](./images/PandasBar-TimesPoints.png)
 ![BarPyplot](./images/PyplotBar-TimepointToDrugs.png)
